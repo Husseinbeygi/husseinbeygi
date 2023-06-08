@@ -9,7 +9,6 @@ As a software engineer with a passion for .NET development, I deliver high-quali
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=husseinbeygi&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=husseinbeygi&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=husseinbeygi&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=husseinbeygi&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
